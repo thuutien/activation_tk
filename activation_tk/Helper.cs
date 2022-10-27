@@ -46,10 +46,6 @@ namespace activation_tk
             {
                 MessageBox.Show("Error occurred, key is empty");
             }
-            
-
-
-
         }
         
     }
