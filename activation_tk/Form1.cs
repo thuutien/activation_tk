@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -20,7 +21,7 @@ namespace activation_tk
 
         private void label2_Click(object sender, EventArgs e)
         {
-
+            Process.Start("https://github.com/thuutien");
         }
 
         private void Form1_Load(object sender, EventArgs e)
